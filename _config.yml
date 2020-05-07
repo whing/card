@@ -1,7 +1,7 @@
 # the theme from: https://github.com/artemsheludko/monday.git
 title: vic homepage | www.whing.cn
 description: "There is only one heroism in the world: to see the world as it is and to love it."
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/card" # the subpath of your site, e.g. /blog
 url: "http://whing.cn" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark

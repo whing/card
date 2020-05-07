@@ -1,3 +1,4 @@
+# the theme from: https://github.com/artemsheludko/monday.git
 title: vic homepage | www.whing.cn
 description: "There is only one heroism in the world: to see the world as it is and to love it."
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -15,7 +16,7 @@ pic: I.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the
 # Add your Email address
 email: vic.woo@vip.163.com 
 # Add your Phone number
-# phone: 044 825 5523 
+phone0: 044 825 5523 
 # Add your website, do not add http://
 website: whing.cn
 # Add your Linkedin handle
@@ -23,7 +24,7 @@ linkedin: vicwoo
 # Add your Github handle
 github: vic9527 
 # Add your Twitter handle
-# twitter: '@artemsheludko_' 
+twitter0: '@artemsheludko_' 
 
 # Tracker
 analytics:

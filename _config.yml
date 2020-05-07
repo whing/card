@@ -13,18 +13,12 @@ about-description: Huang Wu (English name is Vic Woo), Master of Science (MSc), 
 pic: I.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-# Add your Email address
-email: vic.woo@vip.163.com 
-# Add your Phone number
-
-# Add your website, do not add http://
-website: whing.cn
-# Add your Linkedin handle
-linkedin: vicwoo
-# Add your Github handle
-github: vic9527 
-# Add your Twitter handle
-twitter0: '@artemsheludko_' 
+email: vic.woo@vip.163.com # Add your Email address
+# phone: 044 825 5523 # Add your Phone number
+website: whing.cn # Add your website, do not add http://
+linkedin: vicwoo # Add your Linkedin handle
+github: vic9527 # Add your Github handle
+# twitter: '@artemsheludko_' # Add your Twitter handle
 
 # Tracker
 analytics:

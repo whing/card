@@ -1,5 +1,5 @@
-title: Wendell Thomas
-description: > # this means to ignore newlines until "baseurl:"
+title: vic homepage | www.whing.cn
+description: > There is only one heroism in the world: to see the world as it is and to love it. # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -10,17 +10,17 @@ blog_theme: dark # Or use dark
 
 # Profile information
 name: Vic Woo
-tagline: Algorithm Engineer
-about-description: # Add Discription
+tagline: AI Algorithm Engineer
+about-description: Huang Wu (English name is Vic Woo), Master of Science (MSc), graduated from Institute of Statistics in School of Computer and Information, Anqing Normal University, Anhui, China. The main research directions and interests are in Machine Learning (ML), Pattern Recognition(PR) and Human Activity Recognition(HAR). Furthermore, the more attentions are paid on Big-data technology and Deep Learning, working on artificial intelligence in education about ML&DL, HAR, DIP, CV and so on. # Add Discription
 pic: I.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: vic.woo@vip.163.com # Add your Email address
-# phone: 044 825 5523 # Add your Phone number
+phone: 044 825 5523 # Add your Phone number
 website: whing.cn # Add your website, do not add http://
-# linkedin: # Add your Linkedin handle
+linkedin: # Add your Linkedin handle
 github: vic9527 # Add your Github handle
-# twitter: '@artemsheludko_' # Add your Twitter handle
+twitter: '@artemsheludko_' # Add your Twitter handle
 
 # Tracker
 analytics:

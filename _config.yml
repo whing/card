@@ -9,7 +9,7 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Vic Woo
 tagline: AI Algorithm Engineer
-about-description: Huang Wu (English name is Vic Woo), Master of Science (MSc), graduated from Institute of Statistics in School of Computer and Information, Anqing Normal University, Anhui, China. The main research directions and interests are in Machine Learning (ML), Pattern Recognition(PR) and Human Activity Recognition(HAR). Furthermore, the more attentions are paid on Big-data technology and Deep Learning, working on artificial intelligence in education about ML&DL, HAR, DIP, CV and so on. # Add Discription
+about-description: Vic Woo (Chinese name is Wu Huang), Master of Science (MSc), graduated from Institute of Statistics in School of Computer and Information, Anqing Normal University, Anhui, China. The main research directions and interests are in Machine Learning (ML), Pattern Recognition(PR) and Human Activity Recognition(HAR). Furthermore, the more attentions are paid on Big-data technology and Deep Learning, working on artificial intelligence in education about ML&DL, HAR, DIP, CV and so on. # Add Discription
 pic: I.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
